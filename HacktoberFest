@@ -1,2 +1,2 @@
-console.log("Hacktoberfest - 2021");
-console.log("Hacktoberfest - 2021");
+console.alert("Hacktoberfest - 2021 :)");
+console.log("Hacktoberfest - 2021  :)");
